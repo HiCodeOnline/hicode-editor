@@ -1,5 +1,5 @@
 {
-  "name": "md-editor-v3",
+  "name": "hicode-editor",
   "version": "6.3.1",
   "license": "MIT",
   "keywords": [
@@ -12,20 +12,21 @@
     "markdown",
     "editor",
     "theme",
+    "md-editor-v3",
     "html"
   ],
-  "description": "Markdown editor for vue3, developed in jsx and typescript, dark theme、beautify content by prettier、render articles directly、paste or clip the picture and upload it...",
+  "description": "Fork from md-editor-v3, Markdown editor for vue3, developed in jsx and typescript, dark theme、beautify content by prettier、render articles directly、paste or clip the picture and upload it...",
   "author": {
-    "name": "zbf",
-    "url": "https://github.com/imzbf"
+    "name": "HiCodeOnline",
+    "url": "https://github.com/HiCodeOnline"
   },
-  "homepage": "https://imzbf.github.io/md-editor-v3/",
+  "homepage": "https://hicodeonline.github.io/hicode-editor/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/imzbf/md-editor-v3.git"
+    "url": "git+https://github.com/HiCodeOnline/hicode-editor.git"
   },
   "bugs": {
-    "url": "https://github.com/imzbf/md-editor-v3/issues"
+    "url": "https://github.com/HiCodeOnline/hicode-editor/issues"
   },
   "files": [
     "lib"
